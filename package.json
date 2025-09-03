@@ -49,7 +49,7 @@
     "@changesets/cli": "^2.29.6",
     "@csstools/postcss-sass": "^5.1.1",
     "@github/prettier-config": "^0.0.6",
-    "@primer/stylelint-config": "^13.0.0",
+    "@primer/stylelint-config": "^13.3.2",
     "autoprefixer": "^10.4.18",
     "chokidar-cli": "^3.0.0",
     "cssstats": "^4.0.5",
