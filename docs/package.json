@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.24.9",
-    "@geometricpanda/storybook-addon-badges": "^2.0.0",
+    "@geometricpanda/storybook-addon-badges": "^2.0.5",
     "@storybook/addon-essentials": "^8.6.14",
     "@storybook/addon-interactions": "^7.6.20",
     "@storybook/addon-links": "^7.6.20",
